@@ -1,4 +1,6 @@
 streamlit
 pandas
 mlxtend
+matplotlib
 scikit-learn
+seaborn
